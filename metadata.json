@@ -1,0 +1,6 @@
+{
+  "name": "The Head | موقع الرأس",
+  "description": "موقع تفاعلي مخصص بالكامل لرأس هذا الشخص، مع تفاعل فيزيائي ومؤثرات وإكسسوارات ووضع الرأس الخالص.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
